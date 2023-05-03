@@ -5,7 +5,7 @@ Make sure that docker is working properly on your machine
 ## Installing using GitHub
 Install PostgresSQL and create db
 ```
-git clone https://github.com/BohdanLazaryshyn/Cinema-API.git
+git clone https://github.com/BohdanLazaryshyn/rest-cinema-api.git
 cd cinema_API
 python -m venv venv
 venv\Scripts\activate (on Windows)
